@@ -11,7 +11,7 @@
 ## About me 🤓
 - Optimistic Software Developer 🧑‍💻
 - Enthusiastic Presenter 🎙️ 
-- Semi-Professional Quidditch Player 🤾 🧹🏐
+- Semi-Professional Quidditch Player 🤾🧹🏐
 - Former Film Maker 🎬 
 
 
