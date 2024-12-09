@@ -29,7 +29,7 @@
 ## Stats 🧗
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=biradon&theme=dark&background=000000" alt="GitHub Streak">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=biradon" alt="GitHub Streak">
     </a>
 </div>
 
